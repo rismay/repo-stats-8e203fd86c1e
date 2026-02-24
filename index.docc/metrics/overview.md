@@ -5,7 +5,7 @@
   @TitleHeading("wrkstrm ecosystem stats overview")
 }
 
-Window: 2026-01-01 through 2026-02-23.
+Window: 2026-01-01 through 2026-02-24.
 
 - Commit interval: Week
 - File interval: Month
