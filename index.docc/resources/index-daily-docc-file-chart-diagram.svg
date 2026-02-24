@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420">
+<rect x="0" y="0" width="1200" height="420" fill="#f8fafc" />
+<text x="600" y="22" text-anchor="middle" font-size="16" font-weight="600" fill="#0f172a">Cumulative Month docc Files (2026-01 - 2026-02)</text>
+<line x1="60" y1="340" x2="1180" y2="340" stroke="#cbd5e1" stroke-width="1" />
+<g font-family="monospace" font-size="11" fill="#1e293b">
+<line x1="60" y1="340.0" x2="1180" y2="340.0" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="343.0" text-anchor="end">0</text>
+<line x1="60" y1="262.8780487804878" x2="1180" y2="262.8780487804878" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="265.8780487804878" text-anchor="end">51</text>
+<line x1="60" y1="185.7560975609756" x2="1180" y2="185.7560975609756" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="188.7560975609756" text-anchor="end">102</text>
+<line x1="60" y1="108.6341463414634" x2="1180" y2="108.6341463414634" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="111.6341463414634" text-anchor="end">153</text>
+<line x1="60" y1="31.51219512195121" x2="1180" y2="31.51219512195121" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="34.51219512195121" text-anchor="end">204</text>
+</g>
+<g font-family="monospace">
+<rect x="60.0" y="143.41463414634146" width="559.0" height="196.58536585365854" fill="#0ea5e9" rx="2"/>
+<text x="339.5" y="370" transform="rotate(-45 339.5,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01</text>
+<text x="339.5" y="139" text-anchor="middle" font-size="9" fill="#334155">130</text>
+<rect x="621.0" y="30.0" width="559.0" height="310.0" fill="#0ea5e9" rx="2"/>
+<text x="900.5" y="370" transform="rotate(-45 900.5,370)" text-anchor="middle" font-size="8" fill="#334155">2026-02</text>
+<text x="900.5" y="26" text-anchor="middle" font-size="9" fill="#334155">205</text>
+</g>
+</svg>

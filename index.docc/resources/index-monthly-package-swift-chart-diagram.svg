@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420">
+<rect x="0" y="0" width="900" height="420" fill="#f8fafc" />
+<text x="450" y="22" text-anchor="middle" font-size="16" font-weight="600" fill="#0f172a">Cumulative `Package.swift` Activity (2026-01 - 2026-02)</text>
+<line x1="60" y1="340" x2="880" y2="340" stroke="#cbd5e1" stroke-width="1" />
+<g font-family="monospace" font-size="11" fill="#1e293b">
+<line x1="60" y1="340.0" x2="880" y2="340.0" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="343.0" text-anchor="end">0</text>
+<line x1="60" y1="265.17241379310343" x2="880" y2="265.17241379310343" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="268.17241379310343" text-anchor="end">14</text>
+<line x1="60" y1="190.3448275862069" x2="880" y2="190.3448275862069" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="193.3448275862069" text-anchor="end">28</text>
+<line x1="60" y1="115.51724137931035" x2="880" y2="115.51724137931035" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="118.51724137931035" text-anchor="end">42</text>
+<line x1="60" y1="40.68965517241378" x2="880" y2="40.68965517241378" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="43.68965517241378" text-anchor="end">56</text>
+</g>
+<g font-family="monospace">
+<rect x="60.0" y="56.72413793103448" width="406.0" height="283.2758620689655" fill="#ef4444" rx="2"/>
+<text x="263.0" y="370" transform="rotate(-45 263.0,370)" text-anchor="middle" font-size="10" fill="#334155">2026-01</text>
+<text x="263.0" y="50" text-anchor="middle" font-size="10" fill="#334155">53</text>
+<rect x="474.0" y="30.0" width="406.0" height="310.0" fill="#ef4444" rx="2"/>
+<text x="677.0" y="370" transform="rotate(-45 677.0,370)" text-anchor="middle" font-size="10" fill="#334155">2026-02</text>
+<text x="677.0" y="24" text-anchor="middle" font-size="10" fill="#334155">58</text>
+</g>
+</svg>
