@@ -16,6 +16,7 @@ Window: 2026-01-01 through 2026-02-24.
 - Latest cumulative `.swift`: 3940
 - Latest cumulative `.md`: 6401
 - Latest cumulative `.docc`: 373
+- OpenClaw JS+TS (excluding `node_modules`, `.pnpm`, `dist`, `build`, `.next`, `coverage`): 4518 (`js`=28, `ts`=4490)
 
 ## Metrics pages
 - <doc:commits>

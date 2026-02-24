@@ -31,4 +31,11 @@ Snapshot date: 2026-02-23
 | `modules/wrkstrm/public/spm/universal/domain/system/wrkstrm-emoji` | 3 | 3 | 2 | 1 | 9 |
 | `modules/wrkstrm/public/spm/universal/domain/ai/common-ai` | 7 | 0 | 0 | 1 | 8 |
 
+## OpenClaw JS+TS (single metric)
+- Path scope: `modules/openclaw/public/npm/openclaw` (fallback: `orgs/openclaw/public/npm/openclaw`).
+- Excludes: `node_modules`, `.pnpm`, `dist`, `build`, `.next`, `coverage`.
+- `.js/.mjs/.cjs`: 28
+- `.ts/.tsx`: 4490
+- Combined JS+TS: 4518
+
 - Generated JSON artifact: `index-commit-report.json`
