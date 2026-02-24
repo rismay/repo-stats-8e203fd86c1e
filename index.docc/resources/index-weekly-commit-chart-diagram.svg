@@ -33,11 +33,11 @@
 <rect x="577.5" y="30.0" width="95.5" height="310.0" fill="#2f80ed" rx="2"/>
 <text x="625.25" y="370" transform="rotate(-45 625.25,370)" text-anchor="middle" font-size="10" fill="#334155">2026-02-09 .. 2026-02-15</text>
 <text x="625.25" y="24" text-anchor="middle" font-size="10" fill="#334155">241</text>
-<rect x="681.0" y="37.71784232365144" width="95.5" height="302.28215767634856" fill="#2f80ed" rx="2"/>
+<rect x="681.0" y="36.43153526970957" width="95.5" height="303.56846473029043" fill="#2f80ed" rx="2"/>
 <text x="728.75" y="370" transform="rotate(-45 728.75,370)" text-anchor="middle" font-size="10" fill="#334155">2026-02-16 .. 2026-02-22</text>
-<text x="728.75" y="31" text-anchor="middle" font-size="10" fill="#334155">235</text>
-<rect x="784.5" y="328.42323651452284" width="95.5" height="11.576763485477178" fill="#2f80ed" rx="2"/>
+<text x="728.75" y="30" text-anchor="middle" font-size="10" fill="#334155">236</text>
+<rect x="784.5" y="324.5643153526971" width="95.5" height="15.435684647302903" fill="#2f80ed" rx="2"/>
 <text x="832.25" y="370" transform="rotate(-45 832.25,370)" text-anchor="middle" font-size="10" fill="#334155">2026-02-23 .. 2026-03-01</text>
-<text x="832.25" y="322" text-anchor="middle" font-size="10" fill="#334155">9</text>
+<text x="832.25" y="318" text-anchor="middle" font-size="10" fill="#334155">12</text>
 </g>
 </svg>

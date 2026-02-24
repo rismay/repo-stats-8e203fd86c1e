@@ -7,14 +7,14 @@
       "swift" : 373
     },
     "2026-02" : {
-      "docc" : 205,
-      "md" : 3189,
-      "swift" : 415
+      "docc" : 373,
+      "md" : 6401,
+      "swift" : 3940
     }
   },
   "cumulativePackageSwift" : {
     "2026-01" : 53,
-    "2026-02" : 58
+    "2026-02" : 203
   },
   "days" : [
     {
@@ -609,9 +609,9 @@
     {
       "day" : "2026-02",
       "ownedFiles" : {
-        "docc" : 205,
-        "md" : 3189,
-        "swift" : 415
+        "docc" : 373,
+        "md" : 6401,
+        "swift" : 3940
       },
       "ownedFilesByOrgUser" : {
         "\"provisioned" : {
@@ -713,8 +713,8 @@
           "swift" : 456
         },
         "provisioned" : {
-          "docc" : 268,
-          "md" : 1925
+          "docc" : 269,
+          "md" : 1928
         },
         "todo3" : {
           "docc" : 9,
@@ -875,7 +875,7 @@
           "theme" : "catch-sites"
         },
         {
-          "commits" : 111,
+          "commits" : 112,
           "theme" : "chore"
         },
         {
@@ -1364,6 +1364,10 @@
         },
         {
           "commits" : 1,
+          "theme" : "restore openclaw agent auth config files"
+        },
+        {
+          "commits" : 1,
           "theme" : "restore public readme legacy path and whitelist it in taxonomy"
         },
         {
@@ -1556,6 +1560,10 @@
         },
         {
           "commits" : 1,
+          "theme" : "triage docc"
+        },
+        {
+          "commits" : 1,
           "theme" : "triage share + discord sop"
         },
         {
@@ -1628,6 +1636,10 @@
         },
         {
           "commits" : 1,
+          "theme" : "update root wrkstrm pointer for latest swift-universal sweep"
+        },
+        {
+          "commits" : 1,
           "theme" : "update session exports; add agent aliases"
         },
         {
@@ -1679,7 +1691,7 @@
           "theme" : "wrkstrm-finance index.docc"
         }
       ],
-      "total" : 633
+      "total" : 637
     }
   ],
   "fileInterval" : "month",
@@ -1689,8 +1701,8 @@
   "showEmptyWeeks" : false,
   "since" : "2026-01-01",
   "totalOwnedFiles" : {
-    "docc" : 1167,
-    "md" : 11594,
+    "docc" : 1168,
+    "md" : 11597,
     "swift" : 980
   },
   "totalOwnedFilesByModule" : {
@@ -1819,8 +1831,8 @@
       "swift" : 456
     },
     "provisioned" : {
-      "docc" : 268,
-      "md" : 1925
+      "docc" : 269,
+      "md" : 1928
     },
     "technical-notes" : {
       "md" : 3
@@ -3467,7 +3479,7 @@
           "theme" : "catch-sites"
         },
         {
-          "commits" : 60,
+          "commits" : 61,
           "theme" : "chore"
         },
         {
@@ -3787,14 +3799,14 @@
           "theme" : "wrkstrm docs"
         }
       ],
-      "total" : 235,
+      "total" : 236,
       "weekEnd" : "2026-02-22",
       "weekStart" : "2026-02-16"
     },
     {
       "ownedFiles" : {
-        "docc" : 20,
-        "md" : 529,
+        "docc" : 21,
+        "md" : 532,
         "swift" : 1
       },
       "ownedFilesByModule" : {
@@ -3814,8 +3826,8 @@
           "swift" : 1
         },
         "provisioned" : {
-          "docc" : 13,
-          "md" : 75
+          "docc" : 14,
+          "md" : 78
         }
       },
       "themes" : [
@@ -3833,6 +3845,14 @@
         },
         {
           "commits" : 1,
+          "theme" : "restore openclaw agent auth config files"
+        },
+        {
+          "commits" : 1,
+          "theme" : "triage docc"
+        },
+        {
+          "commits" : 1,
           "theme" : "update monitoring state and repo stats"
         },
         {
@@ -3846,9 +3866,13 @@
         {
           "commits" : 1,
           "theme" : "update root tracked metadata and docs after brand\/tooling sweep"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update root wrkstrm pointer for latest swift-universal sweep"
         }
       ],
-      "total" : 9,
+      "total" : 12,
       "weekEnd" : "2026-03-01",
       "weekStart" : "2026-02-23"
     }
